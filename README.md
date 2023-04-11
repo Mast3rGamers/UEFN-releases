@@ -1,4 +1,4 @@
-# UEFN-releases
+# UEFN releases
 This repository has the goal of archiving the manifest of every UEFN release.
 
 # Season 24
