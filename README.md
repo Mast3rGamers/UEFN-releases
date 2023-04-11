@@ -10,4 +10,5 @@ This repository has the goal of archiving the manifest of every UEFN release.
 
 # Credits
 ● [MasterGamers](https://github.com/Mast3rGamers) - Owner of the archive.
+
 ● [GMatrixGames](https://github.com/GMatrixGames) - UEFN 24.01 manifest.
