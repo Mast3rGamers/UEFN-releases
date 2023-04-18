@@ -8,6 +8,7 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 24.10 CL-24770548 | 2kT4c-u8xpYk0ieZlEybfja5F3JY9w           |
 | UEFN 24.20 CL-24939793 | OZXvRQWwKrp6vWZOskyeF518mJWtoQ           |
 | UEFN 24.20 CL-25019967 | TEEiMSFv_GGqom2gqESdN-vtsZFIcA           |
+| UEFN 24.20 CL-25058254 | Ul-hDOfzipm0xrnhEEKHFF7QRxfCjA           |
 
 # Credits
 ● [MasterGamers](https://github.com/Mast3rGamers) - Owner of the archive.
