@@ -18,3 +18,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 24.20 CL-25058254 | Ul-hDOfzipm0xrnhEEKHFF7QRxfCjA           |
 | UEFN 24.20 CL-25156858 | 9INu2E84opQK92j8JESe3Hy1n27sIQ           |
 | UEFN 24.30 CL-25210886 | _Su_Xl73GeLNv65HPke3XqHjNOYNwQ           |
+| UEFN 24.30 CL-25347382 | 0YEV3ay7qHId_hHXPEeTFv3H6AKqgA           |
