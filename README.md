@@ -22,3 +22,8 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 24.40 CL-25420516 | AeZqOe3bSdLv582jAEykqHIyohNKCg           |
 | UEFN 24.40 CL-25521145 | _4RcTvmf1Z5F3tDweEK4LEQu5CT8NA           |
 | UEFN 24.40 CL-25595478 | McNcWPt_YY41cx7EX0yOSSqQsqMWAg           |
+
+# Season 25
+| Build                  | Manifest                       |
+| ---------------------- | ------------------------------ |
+| UEFN 25.00 CL-25784668 | YHYx9vtklQWyFSiAK0GIyTv05WQQyg |
