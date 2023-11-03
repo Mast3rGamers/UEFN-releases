@@ -43,3 +43,8 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 26.20 CL-28096793 | MimyftLcfpq5WC03pkytt-AV-N0fng |
 | UEFN 26.30 CL-28509302 | GxUp01TJmtVFkiK_BU20bNAp8hH5Dw |
 | UEFN 26.30 CL-28688692 | PkA4B187w_g2tE9qW0ys2cews66zgg |
+
+# Season 27
+| Build                  | Manifest                       |
+| ---------------------- | ------------------------------ |
+| UEFN 27.00 CL-29072304 | hA132Mb5Wgsuc8M520iwVPERaXgCRw |
