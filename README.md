@@ -76,3 +76,8 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 29.40 CL-33291686 | pVtXP14rpBQDDsWxv0G1bNg5_ZgGaA |
 | UEFN 29.40 CL-33502036 | NA |
 | UEFN 29.40 CL-33629566 | FMVl2jD__Kxrnd_Ft0qhk5ys-hnnAA |
+
+# Season 30
+| Build                  | Manifest                       |
+| ---------------------- | ------------------------------ |
+| UEFN 30.00 CL-33760522 | ScjEmDPQqDYIs05lIUy_G--sZD-P8Q |
