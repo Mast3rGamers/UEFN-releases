@@ -86,3 +86,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 30.10 CL-34261954 | dgY0ftE1qTTRyAZGZkGopLYIjxpkKg |
 | UEFN 30.10 CL-34399867 | dnC0vdD9cWUExdbRR0iRH9JY7WbLdA |
 | UEFN 30.20 CL-34554470 | gdryNfh-pa63pky6YkSboEcaLUrgMg |
+| UEFN 30.20 CL-34681661 | ogD4h2ZSRBbvuWazXU67jHPnKMiS-A |
