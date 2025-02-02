@@ -123,3 +123,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 33.11 CL-38773622 | oU3u0MowYOoqGxvqikKZRU4AlJzzXQ |
 | UEFN 33.20 CL-39082670 | MdNjfD-A40xShcSRTU6WT8nLRQRCmg |
 | UEFN 33.20 CL-39277041 | 2CxpM8TvmKC-fWn1XESQ_Ry-YduRUA |
+| UEFN 33.30 CL-39435251 | muRwAGfgvm6lCWlp80ql8VV_POvUEg |
