@@ -132,3 +132,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 34.00 CL-40085084 | Aznxag4o5LdJyp9fe0ONoNiLISMUkQ |
 | UEFN 34.00 CL-40228973 | OAKKbrmf8kt7ngNbekGzQjE6xlft2g |
 | UEFN 34.00 CL-40398515 | WqH1M7ien3BievIJwUeWwUQdmrDolA |
+| UEFN 34.00 CL-40446427 | 6e6UcpF8Q4ypkFIs0UWzhZGxVsuHFA |
