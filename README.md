@@ -139,3 +139,8 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 34.30 CL-41387772 | W3yskPkyQPHKAHTIZUGzgq74s2madQ |
 | UEFN 34.30 CL-41588354 | -O65fynpya896Si1tk-khAgjlxyXOg |
 | UEFN 34.40 CL-41753727 | 1uMfs8gHKH330k2VlkivdRb-SmAqBA |
+
+# Season 35
+| Build                  | Manifest                       |
+| ---------------------- | ------------------------------ |
+| UEFN 35.00 CL-41994699 | ZTvz0RfVVc4Dt3ZE7UuKh2BDYk4mCA |
