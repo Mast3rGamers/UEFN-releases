@@ -147,3 +147,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 35.00 CL-42223143 | Ju4qq7lMs6HlmIDEdE2QJbWsM2voGg |
 | UEFN 35.10 CL-42476511 | gZgCpz5bmgoK1nOQ7UK0iAcICccrkA |
 | UEFN 35.10 CL-42696140 | 0zu9Nzai7OqPeOpG5kiYS2i2cmtjYg |
+| UEFN 35.10 CL-42906078 | KU5S3aluPTD9TOM9BkCqfEeX3ChDsQ |
