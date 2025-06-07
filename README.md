@@ -149,3 +149,8 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 35.10 CL-42696140 | 0zu9Nzai7OqPeOpG5kiYS2i2cmtjYg |
 | UEFN 35.10 CL-42906078 | KU5S3aluPTD9TOM9BkCqfEeX3ChDsQ |
 | UEFN 35.20 CL-42911808 | 50bjlsxoa6KSeIsfOE-POxeNYd73Iw |
+
+# Season 36
+| Build                  | Manifest                       |
+| ---------------------- | ------------------------------ |
+| UEFN 36.00 CL-43214806 | hZphqOwJon9GIVXKE0GqWEcoGbi0Yw |
