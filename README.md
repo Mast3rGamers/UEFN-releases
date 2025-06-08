@@ -7,7 +7,7 @@ This repository has the goal of archiving the manifest of every UEFN release.
 
 ● [GMatrixGames](https://github.com/GMatrixGames) - UEFN 24.01 manifest.
 
-● KPM - UEFN 33.11 manifest.
+● KPM - UEFN 33.11, 36.00 dllfix manifest.
 
 # Releases
 # Season 24
@@ -84,7 +84,7 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | ---------------------- | ------------------------------ |
 | UEFN 30.00 CL-33760522 | ScjEmDPQqDYIs05lIUy_G--sZD-P8Q |
 | UEFN 30.00 CL-33962396 | _U1k-tfZ9_BZ0vWp6kyYsJaL5Ro0pQ |
-| UEFN 30.10 CL-34184790 | NA |
+| UEFN 30.10 CL-34184790 | LOST |
 | UEFN 30.10 CL-34261954 | dgY0ftE1qTTRyAZGZkGopLYIjxpkKg |
 | UEFN 30.10 CL-34399867 | dnC0vdD9cWUExdbRR0iRH9JY7WbLdA |
 | UEFN 30.20 CL-34554470 | gdryNfh-pa63pky6YkSboEcaLUrgMg |
@@ -154,3 +154,7 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | Build                  | Manifest                       |
 | ---------------------- | ------------------------------ |
 | UEFN 36.00 CL-43214806 | hZphqOwJon9GIVXKE0GqWEcoGbi0Yw |
+| UEFN 36.00 CL-43214806-dllfix | hZphqOwJon9GIVXKE0GqWEcoGbi0Yw2 |
+| UEFN 36.00 CL-43214807 | hZphqOwJon9GIVXKE0GqWEcoGbi0Yw3 |
+| UEFN 36.00 CL-43336072 | LOST |
+| UEFN 36.00 CL-43336073 | sp7eBA3yGgNV6ANsH0iSDFjRBTIDoQ2 |
