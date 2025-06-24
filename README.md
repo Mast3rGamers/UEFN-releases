@@ -161,3 +161,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 36.00 CL-43339403 | LOST |
 | UEFN 36.00 CL-43339404 | wa1gVPtvzTGUqdY4mU2AkUjtj7CmBg2 |
 | UEFN 36.10 CL-43486998 | 9VcmCdydygLBuX9XVk-3H8Bcrrd56A |
+| UEFN 36.10 CL-43713507 | FmWBxiDG5GHhxT24Yk6N5xQcg-JpQw |
