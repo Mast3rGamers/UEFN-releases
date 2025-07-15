@@ -163,3 +163,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 36.10 CL-43486998 | 9VcmCdydygLBuX9XVk-3H8Bcrrd56A |
 | UEFN 36.10 CL-43713507 | FmWBxiDG5GHhxT24Yk6N5xQcg-JpQw |
 | UEFN 36.10 CL-43997926 | for4q44lcWhIR3_6ZkOr0vGAI098QQ |
+| UEFN 36.20 CL-43847582 | gpR-jmpixH_KIUZ1MU2q8E8uL7xrtQ |
