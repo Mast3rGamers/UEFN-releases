@@ -172,3 +172,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | ---------------------- | ------------------------------ |
 | UEFN 37.00 CL-44501951 | o_-RGD5LFLviNv7bfkyQZAsYLdFv5g |
 | UEFN 37.00 CL-44765404 | fzkrYkX1iNTHocDs2ECWFjxkTe4Nvw |
+| UEFN 37.10 CL-45056983 | mVuXTRpVr7_sfVQgyEen8R4wAkOnhA |
