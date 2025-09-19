@@ -7,7 +7,7 @@ This repository has the goal of archiving the manifest of every UEFN release.
 
 ● [GMatrixGames](https://github.com/GMatrixGames) - UEFN 24.01 manifest.
 
-● KPM - UEFN 33.11, 36.00 dllfix, 36.00-CL-43336072, 36.00-CL-43339403, 36.20-CL-43847582 manifest.
+● KPM - UEFN 33.11, 36.00 dllfix, 36.00-CL-43336072, 36.00-CL-43339403, 36.20-CL-43847582, 37.20 CL-45566402 manifest.
 
 # Releases
 # Season 24
