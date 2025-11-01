@@ -181,3 +181,8 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 37.40 CL-46295673 | VLvxPv1455SOm531akuRBgvQGqbjIw |
 | UEFN 37.50 CL-46578011 | i5kCea05pcGgQzgWkkWaAXZ1bDlTiA |
 | UEFN 37.51 CL-46968237 | eNw2hLok422XGHulcUW4Nbo_WeuGmw |
+
+# Season 38
+| Build                  | Manifest                       |
+| ---------------------- | ------------------------------ |
+| UEFN 38.00 CL-47291259 | t7fLhebK7mG681mIdkaQz8H-PHdfjg |
