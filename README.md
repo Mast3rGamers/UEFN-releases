@@ -194,3 +194,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | Build                  | Manifest                       |
 | ---------------------- | ------------------------------ |
 | UEFN 39.00 CL-48444883 | ZiZurZkQ-NPIyvPAeUWKv6krKhiGig |
+| UEFN 39.00 CL-48801071 | 0xv2gf_Uya--UQH0DUWmaSeyg0Z0CQ |
