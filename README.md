@@ -198,3 +198,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 39.10 CL-48971054 | Sh1SmEcoYNG-0SZkxkeqaC8xs41hxg |
 | UEFN 39.11 CL-49241099 | ZYvn1rMTsZdmDAJqRkaMCgdpzk0dMw |
 | UEFN 39.11 CL-49242330 | 53DTo3uM4KZpJdhV8kyMn6KCrtJ9wg |
+| UEFN 39.20 CL-49564179 | KSqFyqj4QgCvJ3Un10OfluxmzUgaBQ |
