@@ -205,3 +205,4 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 39.40 CL-50577083 | 22gGClGz8hlkeveZyUmLDBxKLmgarg |
 | UEFN 39.50 CL-50854790 | Zqe2g-JglfEvbXZkvkeT-0ZJjA3yDg |
 | UEFN 39.50 CL-51043566 | wecQ-YPESXCPOK739kGrmO4bxvojYA |
+| UEFN 39.51 CL-51287198 | CYnwekx3scIs7SYMmUibzXSJFFnjhw |
