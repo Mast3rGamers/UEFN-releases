@@ -218,3 +218,8 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 40.30 CL-53093531 | AEAZuIttPag0wjm3aEmP36zXAQgqHA |
 | UEFN 40.40 CL-53683214 | xsZRvEdyNQOaQaTq_USmiZFYjgxjIw |
 | UEFN 40.41 CL-54326946 | xsZRvEdyNQOaQaTq_USmiZFYjgxjIw |
+
+# Season 41
+| Build                  | Manifest                       |
+| ---------------------- | ------------------------------ |
+| UEFN 41.00 CL-54618515 | OmfEeKoYkeMnh79CKEGbfDf8hCHnRg |
