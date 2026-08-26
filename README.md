@@ -228,3 +228,9 @@ This repository has the goal of archiving the manifest of every UEFN release.
 | UEFN 41.20 CL-55550516 | L_Z7Dt4CmWJ_V-jaKECpjMM0iUqQ7A |
 | UEFN 41.30 CL-55979764 | xwR03uDGfYP6iP9PW0qOjvJOlthS5g |
 | UEFN 41.30 CL-56430492 | 75f4dg1BPH-jTJGEXEy7VVNsVXo-HA |
+
+# Season 42
+| Build                  | Manifest                       |
+| ---------------------- | ------------------------------ |
+| UEFN 42.00 CL-56878558 | NzJ-0lyZcrVXD_bkCk2FKZCE0UL6hw |
+| UEFN 42.00 CL-57316517 | okZw4isoE98PTG59EUmPsyUdJdcmtw |
